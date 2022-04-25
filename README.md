@@ -1,4 +1,4 @@
-# 50-Projects
+# 50-Projects ![Last commit](https://img.shields.io/github/last-commit/Srajan7/50-Projects)
  by Brad Traversy
 
 
